@@ -111,3 +111,9 @@
 - [Wafer2 服务端 SDK API 文档](https://github.com/tencentyun/wafer2-node-sdk/blob/master/API.md)
 - [Wafer2 客户端 SDK 使用文档](https://github.com/tencentyun/wafer2-client-sdk/blob/master/README.md)
 
+<<<<<<< HEAD
+=======
+=======
+# wechat_program
+>>>>>>> 73d7c1755fe9dea672f32913c03d3df6d603b893
+>>>>>>> 03baa55c808530a8b8c3a893c04af97d16f15f47
