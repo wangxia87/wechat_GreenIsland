@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wafer2 快速开发 Demo
 
 本仓库是最简版的 Wafer2 开发套件，建议配合腾讯云微信小程序开发者工具解决方案一起使用。适用于想要使用 Wafer SDK 开发的开发者，Demo 对 SDK 进行了详细的使用和介绍，降低开发者的学习成本。
@@ -111,3 +112,6 @@
 - [Wafer2 服务端 SDK API 文档](https://github.com/tencentyun/wafer2-node-sdk/blob/master/API.md)
 - [Wafer2 客户端 SDK 使用文档](https://github.com/tencentyun/wafer2-client-sdk/blob/master/README.md)
 
+=======
+# wechat_program
+>>>>>>> 73d7c1755fe9dea672f32913c03d3df6d603b893
